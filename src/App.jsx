@@ -81,7 +81,7 @@ class App extends React.Component {
 
     return (
       <div>
-        <h1>My Todo List</h1>
+        <h1>My Task Manager App</h1>
         <div className="add-task-container">
           <div className="add-task">
             <div className="task-input">
