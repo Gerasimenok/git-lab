@@ -1,6 +1,6 @@
 import React from "react";
 import "./App.css";
-// Main branch update
+// Rebase test
 
 class App extends React.Component {
   constructor() {
